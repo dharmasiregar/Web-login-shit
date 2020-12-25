@@ -1,0 +1,114 @@
+html,body{
+                margin:0 0 0 0;
+                padding:0 0 0 0;
+                background-color:black;
+}
+h1,p{
+                margin:10px 0 10px 0;
+}
+a{
+                color:#6388b9;
+                text-decoration:red;
+
+}
+/* CSS HEADER */
+#header{
+                height:85px;
+                display:80px;
+                background-image:url(biru.png);
+               
+}
+#logo{
+                float:left;
+                width:200px;
+                padding:20px 0 0 10px;
+}
+#login{
+                float:right;
+                width:570px;
+                padding:10px 10px 0 0;
+}
+#login table{
+                font:normal 12px Tahoma,Verdana;
+                color:black;
+}
+/* CSS CONTENT */
+#content{
+                background-image:url(ubart .jpg);
+                min-height:500px;
+}
+#content #wrapper{
+                width:1000px;
+                padding:25px 0 0 0;
+                margin-left:auto;
+                margin-right:auto;
+                color:#666666;
+}
+#content #wrapper #mobile{
+                width:500px;
+                float:left;
+}
+
+ul{
+                margin:0 0 0 0;
+                padding:0 0 0 20px;
+}
+input.button_mobile{
+                width:145px;
+                height:40px;
+                border:none;
+                background-color:transparent;
+                background-image:url(kirimkeponsel.jpg);
+                background-position:center center;
+                cursor:pointer;
+}
+
+#content #wrapper #register{
+                width:400px;
+                float:right;
+}
+#content #wrapper #register{
+                font:normal 12px Tahoma,Verdana;
+                border-bottom:silver 1px solid;
+}
+input.login{
+                width:200px;
+                height:55px;
+                border:none;
+                background-color:transparent;
+                background-image:url(Mendaftar.jpg);
+                background-position:center center;
+                cursor:pointer;
+}
+#clear{
+                display:block;height:1px;clear:both;
+}
+
+/* CSS FOOTER */
+#footer{
+                font:normal 11px Tahoma,Verdana;
+                display:block;
+                height:150px;
+                background-color:black;
+}
+#footer #link{
+                margin:0 30px 0 30px;
+                border-bottom:silver 1px solid;
+}
+#footer #link2{
+                margin:0 30px 0 30px;
+                background-color:black;
+}
+#footer #link2 table tr td{
+                font:normal 11px Tahoma,Verdana;
+                background-color:black;
+}
+#footer #link a, #footer #link2 a{
+                line-height:20px;
+                margin-right:10px;
+                background-color:black;
+}
+#footer #copy{
+                margin:0 30px 0 30px;
+                
+}

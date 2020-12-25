@@ -1,0 +1,102 @@
+﻿<html>
+<head>
+                <title>Dhar13</title>
+                <link rel="shortcut icon" href="ubicon2.png"/>
+                <link rel="stylesheet" href="style.css" type="text/css"/>
+</head>
+<body bgcolor ="#F5FFFA">
+
+<body>
+<!-- Design Header website -->
+<div id="header">
+                <div id="logo">
+                                <img alt="images" src="ub.png"/>
+                </div>
+                <div id="login">
+                                <table>
+                                    
+                                <tr><td><font color="black">Email atau Telepon</font></td><td colspan="2"><font color="black">Kata Sandi</font></td></tr>
+                                <tr>                              
+                                                                
+                                                                <td><font color="black"><input type="text" class="text"/></td><td ><input type="password" class="text"/></td>
+                                                                <td><input type="submit" value="Log In"/> </font></td>
+                                                           
+                                                </tr>
+                                                <tr><td><input type="checkbox">tetap masuk </td><td colspan="2">Lupa Kata Sandi ?</td></tr>
+                                    
+                                </table>
+                </div>
+</div>
+<!-- Design Content website -->
+<div id="content">
+                <div id="wrapper">
+                                <div id="mobile">
+                                                <img src="ubart.png"/> <br/>
+                                                <h2><center><font color="white"> BERGABUNGLAH BERSAMA KAMI </center> </h2>
+                                                <ul>
+                                                    <font color="lightblue">
+                                                                <li>lakukan obrolan grup atau kirim pesan kepada seorang teman untuk saling sharing karya Senimu</li>
+                                                                <li>hidupkan percakapan dengan foto, emotikon, dan banyak lagi</li>
+                                                                <li>lihat teman yang online dan kirimi pesan langsung diponsel atau komputer mereka </li>
+                                                    </font>
+
+                                                </ul>
+                                                <input type="submit" class="button_mobile" value=" "/>
+                                </div>
+                                <div id="register">
+                                                <h1>Mendaftar</h1>
+                                                <p>Ini gratis sampai kapan pun.</p>
+                                                <input type="text" class="reg" size="20" placeholder="Nama Depan">
+                                                <input type="text" class="reg" size="19" placeholder="Nama Belakang"> <br/><br/>
+                                                <input type="text" class="reg" size="45" placeholder="Email"><br/><br/>
+                                                <input type="text" class="reg" size="45" placeholder="Masukkan Kembali email"><br/><br/>
+                                                <input type="text" class="reg" size="45" placeholder="Kata Sandi baru"><br/>
+                                                <p>Tanggal Lahir</p>
+                                                <select><option>Bulan,<option value="">January</option></select>
+                                                <select><option>Tahun<option value="">1990</option></select>
+                                                <span style="font:normal 10px Tahoma,Verdana;">
+                                                </span><br/><br/>
+                                                <input type="radio" name="radio"> Perempuan
+                                                <select><option>Hari<option value="">1</option> </select>
+                                                <input type="radio" name="radio"> Laki Laki      <br/><br/>
+                                                <p>Dengan mengklik mendaftar, maka anda setuju dengan <a href="">Ketentuan</a>kami dan bahwa Anda sudah membaca
+                                                <a href="">Kebijakan Data</a>, Kami, termasuk <a href="">Penggunaan Cookie</a> kami. Anda akan menerima Pemberitahuan SMS dari UMBAR BHULSHIT art(Dhar13) dan dapat menolaknya kapan saja.</p>
+                                                <input type="submit" class="login" value=" "/>
+                                </div>
+                                <div id="clear"> </div>
+                </div>
+</div>
+<!-- Design Footer website -->
+<div id="footer">
+                <div id="link">
+                <a href="">Bahasa Indonesia</a>
+                <a href="">English (US) </a>
+                <a href="">Italiano</a>
+                <a href="">Lio</a>
+                <a href="">Palue</a>
+                </div>
+                <div id="link2">
+                <table>
+                <tr>
+                                <td><a href="">Mobile</a></td>            <td><a href="">Find Friends</a></td>   
+                                <td><a href="">Badges</a></td>             <td><a href="">People</a></td>           
+                                <td><a href="">Pages</a></td>               <td><a href="">Places</a></td>             
+                                <td><a href="">Apps</a></td>                <td><a href="">Games</a></td>            
+                                <td><a href="">Music</a></td>
+                </tr>
+                <tr>
+                                <td><a href="">About</a></td>              <td><a href="">Create Ad</a></td>       
+                                <td><a href="">Create Page</a></td>     <td><a href="">Developers</a></td>     
+                                <td><a href="">Careers</a></td>            <td><a href="">Privacy</a></td>           
+                                <td><a href="">Cookies</a></td>           <td><a href="">Terms</a></td>             
+                                <td><a href="">Help</a></td>
+                </tr>
+                </table>
+                </div>
+               
+                <div id="copy">
+                               <a href=""><font color="green"> Dhar13 © 2020</font></a>· <a href="">English (US)</a>
+                </div>
+</div>
+</body>
+</html>
